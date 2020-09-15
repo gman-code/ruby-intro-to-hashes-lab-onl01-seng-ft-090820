@@ -1,4 +1,4 @@
-def new_hash {}
+def new_hash 
 test_hash = Hash.new
 end
 
