@@ -1,3 +1,3 @@
 def new_hash{}
-  array[]
+  hash={}
 end
